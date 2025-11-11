@@ -1,0 +1,10 @@
+S -> a | SA | AS | AU1 | U2B
+A -> b | a | SA | AS | AU3 | U4B
+B -> b
+S0 -> a | SA | AS | AU5 | U6B
+U1 -> SA
+U2 -> a
+U3 -> SA
+U4 -> a
+U5 -> SA
+U6 -> a
