@@ -157,9 +157,5 @@ gcc -o cnf main.c
 
 Ελεύθερο για ακαδημαϊκή χρήση.
 
-## ☕ Υποστήριξη
 
-Αν Σας Φάνηκε Χρήσιμη Η Εφαρμογή Και Θέλετε Να Υποστηρίξετε Την Προσπάθειά Μου, Μπορείτε Να Μου Προσφέρετε Έναν Καφέ:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](ΣΥΝΔΕΣΜΟΣ_ΑΠΟ_ΤΟ_ΠΡΟΦΙΛ_ΣΟΥ)
 
